@@ -13,7 +13,7 @@
 
 ## 📫 How to Reach Me
 - 🔗 [LinkedIn](#)
-- 📧 [Email](#)  *(Feel free to add your actual contact links here)*
+- 📧 [Email](#)  
 
 ## ⚡ Fun Facts
 - 🎮 I'm a big fan of strategy games and coding challenges.
